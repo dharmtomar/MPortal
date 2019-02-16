@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1549996449307" stop="1549996608106" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1549996482995" stop="1549996483044" status="passed">
+            <name>merchantHome</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="6480@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1549996497651" stop="1549996503488" status="passed">
+            <name>profiletest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="6480@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1549996516211" stop="1549996517182" status="passed">
+            <name>testtxnlist</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="6480@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1549996527425" stop="1549996527570" status="passed">
+            <name>walletreport</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="6480@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1549996537525" stop="1549996540603" status="passed">
+            <name>downloadcardreports</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="6480@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1549996550508" stop="1549996551730" status="passed">
+            <name>downloadcashreport</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="6480@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1549996562247" stop="1549996563004" status="passed">
+            <name>cahngePassword</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="6480@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1549996574060" stop="1549996574308" status="passed">
+            <name>riskmgt</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="6480@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1549996584199" stop="1549996584991" status="passed">
+            <name>loyaltytest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="6480@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1549996595177" stop="1549996595355" status="passed">
+            <name>ezWallet</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="6480@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1549996603852" stop="1549996605260" status="passed">
+            <name>payoutHistory</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="6480@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="mPortalRegression_TestPages.Homepage_Test"/>
+      <class name="mPortalRegression_TestPages.MerchantProfile_Test"/>
+      <class name="mPortalRegression_TestPages.TxnList_Test"/>
+      <class name="mPortalRegression_TestPages.WalletTxnReport_Test"/>
+      <class name="mPortalRegression_TestPages.CardTxnReport_Test"/>
+      <class name="mPortalRegression_TestPages.CashTxnReport_Test"/>
+      <class name="mPortalRegression_TestPages.ChangePassword_Test"/>
+      <class name="mPortalRegression_TestPages.RiskMgt_Test"/>
+      <class name="mPortalRegression_TestPages.Loyalty_Test"/>
+      <class name="mPortalRegression_TestPages.EZWallet_Test"/>
+      <class name="mPortalRegression_TestPages.PayoutHistory_Test"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
