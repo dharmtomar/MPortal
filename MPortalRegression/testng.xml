@@ -6,7 +6,7 @@
     <classes>
       <class name="mPortalRegression_TestPages.Homepage_Test"/>
       <class name="mPortalRegression_TestPages.MerchantProfile_Test"/>
-      <class name="mPortalRegression_TestPages.TxnList_Test"/>
+<!--       <class name="mPortalRegression_TestPages.TxnList_Test"/>
       <class name="mPortalRegression_TestPages.WalletTxnReport_Test"/>
       <class name="mPortalRegression_TestPages.CardTxnReport_Test"/>
       <class name="mPortalRegression_TestPages.CashTxnReport_Test"/>
@@ -14,7 +14,7 @@
       <class name="mPortalRegression_TestPages.RiskMgt_Test"/>
       <class name="mPortalRegression_TestPages.Loyalty_Test"/>
       <class name="mPortalRegression_TestPages.EZWallet_Test"/>
-      <class name="mPortalRegression_TestPages.PayoutHistory_Test"/>
+      <class name="mPortalRegression_TestPages.PayoutHistory_Test"/> -->
       
     </classes>
   </test> <!-- Test -->
