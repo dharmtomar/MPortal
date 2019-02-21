@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="163.171" tests="11" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="42.337" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin"/>
@@ -45,7 +45,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_73\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -f C:\Users\Hp Pc\eclipse-workspace\MPortalRegression\pom.xml test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -f C:\Users\Hp Pc\eclipse-workspace\Merchant\MPortalRegression\pom.xml test"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -62,15 +62,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="merchantHome" classname="mPortalRegression_TestPages.Homepage_Test" time="0.759"/>
-  <testcase name="profiletest" classname="mPortalRegression_TestPages.MerchantProfile_Test" time="5.84"/>
-  <testcase name="testtxnlist" classname="mPortalRegression_TestPages.TxnList_Test" time="0.97"/>
-  <testcase name="walletreport" classname="mPortalRegression_TestPages.WalletTxnReport_Test" time="0.145"/>
-  <testcase name="downloadcardreports" classname="mPortalRegression_TestPages.CardTxnReport_Test" time="3.079"/>
-  <testcase name="downloadcashreport" classname="mPortalRegression_TestPages.CashTxnReport_Test" time="1.223"/>
-  <testcase name="cahngePassword" classname="mPortalRegression_TestPages.ChangePassword_Test" time="0.758"/>
-  <testcase name="riskmgt" classname="mPortalRegression_TestPages.RiskMgt_Test" time="0.249"/>
-  <testcase name="loyaltytest" classname="mPortalRegression_TestPages.Loyalty_Test" time="0.793"/>
-  <testcase name="ezWallet" classname="mPortalRegression_TestPages.EZWallet_Test" time="0.178"/>
-  <testcase name="payoutHistory" classname="mPortalRegression_TestPages.PayoutHistory_Test" time="1.409"/>
+  <testcase name="merchantHome" classname="mPortalRegression_TestPages.Homepage_Test" time="0.083"/>
+  <testcase name="profiletest" classname="mPortalRegression_TestPages.MerchantProfile_Test" time="1.678"/>
 </testsuite>

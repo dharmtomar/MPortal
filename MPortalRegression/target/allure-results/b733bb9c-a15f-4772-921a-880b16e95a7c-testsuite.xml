@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1550717465285" stop="1550717505209" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1550717486331" stop="1550717486360" status="passed">
+            <name>merchantHome</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="7148@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1550717503383" stop="1550717505058" status="passed">
+            <name>profiletest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="7148@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
