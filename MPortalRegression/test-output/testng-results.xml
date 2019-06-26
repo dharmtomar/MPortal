@@ -1,39 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="30354" started-at="2019-02-18T03:45:06Z" finished-at="2019-02-18T03:45:36Z">
+  <suite name="Default suite" duration-ms="20281" started-at="2019-02-22T03:08:23Z" finished-at="2019-02-22T03:08:43Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="30354" started-at="2019-02-18T03:45:06Z" finished-at="2019-02-18T03:45:36Z">
-      <class name="mPortalRegression_TestPages.MerchantProfile_Test">
-        <test-method status="PASS" signature="setup()[pri:0, instance:mPortalRegression_TestPages.MerchantProfile_Test@a96d56c]" name="setup" is-config="true" duration-ms="10034" started-at="2019-02-18T03:45:25Z" finished-at="2019-02-18T03:45:35Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="profiletest()[pri:0, instance:mPortalRegression_TestPages.MerchantProfile_Test@a96d56c]" name="profiletest" duration-ms="1305" started-at="2019-02-18T03:45:35Z" finished-at="2019-02-18T03:45:36Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- profiletest -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:mPortalRegression_TestPages.MerchantProfile_Test@a96d56c]" name="teardown" is-config="true" duration-ms="186" started-at="2019-02-18T03:45:36Z" finished-at="2019-02-18T03:45:36Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- mPortalRegression_TestPages.MerchantProfile_Test -->
+    <test name="Default test" duration-ms="20281" started-at="2019-02-22T03:08:23Z" finished-at="2019-02-22T03:08:43Z">
       <class name="mPortalRegression_TestPages.Homepage_Test">
-        <test-method status="PASS" signature="setup()[pri:0, instance:mPortalRegression_TestPages.Homepage_Test@32177fa5]" name="setup" is-config="true" duration-ms="18136" started-at="2019-02-18T03:45:06Z" finished-at="2019-02-18T03:45:24Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:mPortalRegression_TestPages.Homepage_Test@7f1ef916]" name="setup" is-config="true" duration-ms="17592" started-at="2019-02-22T03:08:23Z" finished-at="2019-02-22T03:08:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="merchantHome()[pri:0, instance:mPortalRegression_TestPages.Homepage_Test@32177fa5]" name="merchantHome" duration-ms="170" started-at="2019-02-18T03:45:24Z" finished-at="2019-02-18T03:45:24Z">
+        <test-method status="PASS" signature="merchantHome()[pri:0, instance:mPortalRegression_TestPages.Homepage_Test@7f1ef916]" name="merchantHome" duration-ms="214" started-at="2019-02-22T03:08:41Z" finished-at="2019-02-22T03:08:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- merchantHome -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:mPortalRegression_TestPages.Homepage_Test@32177fa5]" name="teardown" is-config="true" duration-ms="236" started-at="2019-02-18T03:45:24Z" finished-at="2019-02-18T03:45:25Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:mPortalRegression_TestPages.Homepage_Test@7f1ef916]" name="teardown" is-config="true" duration-ms="2319" started-at="2019-02-22T03:08:41Z" finished-at="2019-02-22T03:08:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- mPortalRegression_TestPages.Homepage_Test -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
